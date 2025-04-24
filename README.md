@@ -1,6 +1,6 @@
 # IIT-L3-Academic-Skills-in-Higher-Education
 
-# 🎓 DOC 311 Academic Skills for Higher Education (ASHE) 📚
+# 🎓 DOC 311 Academic Skills for Higher Education 📚
 
 This repository contains comprehensive materials for the DOC 311 Academic Skills for Higher Education (ASHE) module at Foundation Level 3, Informatics Institute of Technology – 2023. Whether you're looking for lecture notes, assignment guidelines, academic writing resources, or exam preparation tools, everything is organized here for convenient access.
 
