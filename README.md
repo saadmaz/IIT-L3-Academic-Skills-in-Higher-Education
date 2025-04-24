@@ -9,17 +9,8 @@ This repository contains comprehensive materials for the DOC 311 Academic Skills
 ```
 DOC-311-ASHE/
 ├── Coursework/
-│   ├── Coursework_01/
-│   ├── Coursework_02/
-│   └── ...
 ├── ICT_1/
-│   ├── Materials/
-│   ├── Practice_Questions/
-│   └── ...
 ├── ICT_2/
-│   ├── Materials/
-│   ├── Practice_Questions/
-│   └── ...
 ├── Week_01/
 ├── Week_03/
 ├── Week_04/
@@ -94,6 +85,6 @@ This repository is for educational purposes only:
 
 ## 📬 Contact
 
-For questions or clarifications about any content in this repository, please contact your module coordinator through the official IIT communication channels.
+For questions or clarifications about any content in this repository, please reach out to saadmazaa@gmail.com.
 
 Last updated: April 2025
